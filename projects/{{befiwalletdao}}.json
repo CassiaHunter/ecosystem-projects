@@ -1,0 +1,15 @@
+{
+  "name": "BeFi Wallet DAO",
+  "slug": "befiwalletdao",
+  "date": "2022-04-13",
+  "highlight": "BeFi Wallet DAO is the open-source and community-run Web 3.0 wallet where users can safely store and manage all your multi-chain coins, tokens, and NFTs and, most importantly, EARN from it. BeFi Wallet will benefit the Avalanche community by supporting all tokens and dapps from the Solana ecosystem so that Avalanche users can easily use our BeFi Wallet and have at hand a new more efficient and sophisticated crypto wallet.",
+  "logo": "/img/befi.png",
+  "tags": ["wallet","dao","nft","dapp"],
+  "status": "live",
+  "website": "https://befiwalletdao.com/",
+  "twitter": "https://twitter.com/befiwalletdao",
+  "summary": "BeFi Wallet DAO (BeFi Wallet) is a disruptive innovative web3 wallet that aims to redefine the existing wallet ecosystem with a DAO-driven model. BeFi Wallet not only securely keeps crypto assets, but also fairly redistributes all the profits generated from the wallet services, including those generated from swap and staking, back to the BeFi Wallet contributors. Therefore, the Befi Wallet provides benefits for all the users of our ecosystem. Our distinctiveness arises from our motivated idea that revenue of the entire wallet services belongs to the users and developers that generate value for the wallet. We believe that the beauty of web3 applications is that there are opportunities for users to participate in the projects and also be able to earn profits from their contribution. However, even though current crypto wallets are decentralized, there is no role of user participation. Thus, a mechanism that finds an optimal solution for users’ compensation is needed which is the core purpose of the BeFi DAO governance. Not only do we want to ensure our user community participation by redistributing all the profits to them, but we also want to guarantee that the final word will be theirs. Hence, the BeFi DAO’s trustless decision-making frameworks are generally intended to help make governance accessible to all those willing to participate.",
+  "telegram": "https://t.me/befiwalletdao",
+  "docs":"https://docs.befiwalletdao.com",
+  "github":"https://github.com/befiwalletdao",
+}
